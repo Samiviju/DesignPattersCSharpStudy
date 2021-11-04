@@ -1,0 +1,14 @@
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.exe
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.deps.json
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.runtimeconfig.json
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.runtimeconfig.dev.json
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.dll
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\bin\Debug\netcoreapp3.1\CursoDesignPatterns.pdb
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.csproj.AssemblyReference.cache
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.AssemblyInfoInputs.cache
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.AssemblyInfo.cs
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.csproj.CoreCompileInputs.cache
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.dll
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.pdb
+C:\Users\samuel.vieira\source\repos\ConsoleApp1\ConsoleApp1\obj\Debug\netcoreapp3.1\CursoDesignPatterns.genruntimeconfig.cache
